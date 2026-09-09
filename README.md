@@ -1,4 +1,4 @@
-# 15. Containers — Docker ⭐⭐⭐⭐⭐
+# Containers — Docker
 
 Docker is one of the **most important tools for a DevOps fresher**. It is used to package an application together with everything it needs and run it consistently across different environments.
 
